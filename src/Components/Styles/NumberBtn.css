@@ -1,0 +1,18 @@
+.number-btn {
+  display: inline-block;
+  box-sizing: border-box;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid #ddd;
+  width: 25%;
+  background-color: #ea8;
+  padding: 10px;
+  transition: 0.3s;
+  user-select: none;
+  cursor: pointer;
+}
+
+.number-btn:hover {
+  background-color: rgb(122, 165, 190);
+}

@@ -1,0 +1,18 @@
+.display {
+  background-color: #444;
+  color: white;
+  font-size: 60px;
+  padding: 5px 10px;
+  display: block;
+  margin: 0;
+  user-select: none;
+  cursor: pointer;
+  text-align: right;
+  position: relative;
+  /* height: 140px; */
+}
+
+.result {
+  /* position: absolute; */
+  right: 10px;
+}
